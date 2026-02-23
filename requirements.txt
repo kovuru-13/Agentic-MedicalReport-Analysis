@@ -1,0 +1,17 @@
+langchain
+langchain-community
+#langchain-openai
+langchain-experimental
+langgraph
+langchain-core
+langchain_ollama
+langchain-groq
+reportlab
+python-dotenv
+dotenv
+streamlit
+faiss-cpu
+sentence-transformers
+duckduckgo-search
+ddgs
+langchain-huggingface
